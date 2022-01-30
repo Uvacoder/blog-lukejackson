@@ -1,5 +1,8 @@
 # Ghatsby
 
+- https://blog.lukejacksonn.com
+
+
 > forkable static personal blogging solution
 
 A clientside only web app with the sole purpose of indexing, fetching and rendering markdown file at runtime. A lightweight alternative to static site generators such as gatsby and next. Intended to be self hosted for free using GitHub pages.
